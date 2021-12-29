@@ -111,7 +111,7 @@ def get_data(sid, cookie, user_agent, c_address, w_address, time_frame):
     print(time_curr)
     print(time_tgt)
     # test
-    # page_num = 2
+    page_num = 2
 
     start_page = 1
     end_page = page_num
